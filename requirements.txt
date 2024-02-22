@@ -1,0 +1,13 @@
+langchain
+pandas
+pdfplumber
+streamlit
+streamlit_chat
+openai
+pypdf
+faiss-cpu
+tiktoken
+openpyxl
+langchain-community
+fpdf
+langchain_openai
